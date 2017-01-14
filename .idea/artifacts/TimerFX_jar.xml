@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TimerFX:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TimerFX_jar</output-path>
+    <root id="archive" name="TimerFX.jar">
+      <element id="module-output" name="TimerFX" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jxbrowser/lib/jxbrowser-6.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jxbrowser/lib/jxbrowser-win-6.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/jxbrowser/lib/license.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jxbrowser-6.11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/jxbrowser/lib/jxbrowser-6.11.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jxbrowser/lib/jxbrowser-win-6.11.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/jxbrowser/lib/license.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
