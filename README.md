@@ -2,6 +2,8 @@
 
 JavaFXTimerBrowser web browser is a simple web browser application which created in JavaFX. It is timer enabled web browser. This application is developed for ccompetiton called "GYAN - Google Search compition". This application is created for event zeITgeist conducted by Kannur University, Mangattuparamba Campus.
 
+IDE Used: ### Intellij IDEA
+
 Fuctions:
 
  * Tab enabled web browser
